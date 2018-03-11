@@ -1,0 +1,93 @@
+#title {
+    text-align: center;
+    color: teal;
+}
+
+/* Main Container */
+
+#container {
+    background-color: lightgoldenrodyellow;
+    width: 1000px;
+    height: 550px;
+    margin: auto;
+}
+
+/* Color Container */
+
+#color-container {
+    margin-left: 50px;
+    padding-top: 50px;
+}
+
+/* Colors */
+
+#red {
+    background-color: red;
+    width: 50px;
+    height: 50px;
+}
+
+#teal {
+    background-color: teal;
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+#green {
+    background-color: lime;
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+#pink {
+    background-color: pink;
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+/* 4 Square Container */
+
+#square-container {
+    width: 205px;
+    height: 205px;
+    background-color: steelblue;
+    margin: auto;
+    margin-top: -200px;
+}
+
+/* 4 Squares */
+
+#top-left {
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    border: 2px black solid;
+}
+
+#top-right {
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    border: 2px black solid;
+    float: right;
+}
+
+#bottom-left {
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    border: 2px black solid;
+}
+
+#bottom-right {
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    border: 2px black solid;
+    margin-left: 101px;
+    margin-top: -208px;
+
+}
